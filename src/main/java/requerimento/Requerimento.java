@@ -7,7 +7,7 @@ public class Requerimento {
 	private String nome;
 
 	public Integer getId() {
-		return id;
+		return id
 	}
 
 	public void setId(Integer id) {
