@@ -13,8 +13,6 @@ public class RequerimentoTest {
 		req.setNome("req1");
 		assertEquals(req.getNome(), "req1");
 		assertEquals(req.getId(), new Integer(1));
-		
-		
 	}
 
 }
